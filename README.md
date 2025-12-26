@@ -1,22 +1,35 @@
-# Hotel Management System
 
-🚧 Project Status: In Progress
+---
 
-This is an academic project developed to understand basic hotel booking operations using Python and MySQL.
+## 🏨 2️⃣ Hotel Management System – README.md
 
-## Current Features
-- Accepts customer name and room number
-- Displays booking confirmation
-- Database structure created using MySQL
+**Repository name:** `Hotel-Management-System-Python`
 
-## Technologies Used
+```md
+# Hotel Management System (Python + MySQL)
+
+## 📌 Project Overview
+A Python-based Hotel Management System designed to manage room bookings, billing, and customer records efficiently.
+
+## 🛠 Technologies Used
 - Python
 - MySQL
+- SQL Queries
 
-## Future Improvements
-- Store booking data in database
-- Add room availability logic
-- Generate billing details
+## ✨ Features
+- Room booking management
+- Customer details storage
+- Billing system
+- Database integration using MySQL
 
-## Author
-Janavi Sude
+## 🎯 Learning Outcome
+- Database connectivity with Python
+- Writing SQL queries
+- Managing structured data using MySQL
+
+## ▶️ How to Run
+1. Install MySQL and create a database
+2. Update database credentials in the Python file
+3. Run the program:
+   ```bash
+   python hotel_management.py
